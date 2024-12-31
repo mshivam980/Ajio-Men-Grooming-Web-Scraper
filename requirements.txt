@@ -1,0 +1,2 @@
+selenium==<latest_version>
+pandas==<latest_version>
